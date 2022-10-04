@@ -1,2 +1,5 @@
 binlog.*
 *.pem
+\#innodb_redo/*
+\#innodb_temp/*
+undo_*
