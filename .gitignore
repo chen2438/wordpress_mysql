@@ -3,3 +3,4 @@ binlog.*
 \#innodb_redo/*
 \#innodb_temp/*
 undo_*
+wordpress/wp_wf*
